@@ -1,2 +1,2 @@
 # hello-world
-Just a practice repository
+This is the first changes made to the hello-world branch.
